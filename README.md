@@ -14,6 +14,7 @@
 | ファイル | 中身 |
 |---|---|
 | [`CLAUDE.md`](CLAUDE.md) | トレーナーのキャラ設定と、記録・提案のルール |
+| [`history.md`](history.md) | これまでの記録（スプレッドシート）の分析 |
 | [`profile.md`](profile.md) | 身長・体重・ベスト記録など（あとで記入） |
 | [`program.md`](program.md) | 筋トレの組み方と重量アップのルール（理由つき）、マラソンまでの計画 |
 | [`nutrition.md`](nutrition.md) | 食事の目安と、レース前の食べ方 |
