@@ -19,6 +19,8 @@
 | [`program.md`](program.md) | 筋トレの組み方と重量アップのルール（理由つき）、マラソンまでの計画 |
 | [`nutrition.md`](nutrition.md) | 食事の目安と、レース前の食べ方 |
 | [`logs/2026/`](logs/2026/) | 月ごとの記録（筋トレ・ラン・体調・コメント） |
+| [`data/training-log.csv`](data/training-log.csv) | 2021年からの筋トレ記録（スプレッドシート「MASSLE」から書き出したもの。コメントは除いている） |
+| [`data/inbody.csv`](data/inbody.csv) | InBodyの体重・体脂肪率 |
 
 ## 🔁 使い方
 
